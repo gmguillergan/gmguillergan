@@ -19,9 +19,9 @@
 
 ## 👤 About Me
 
-Hey! I'm **Gabriel Martin**, a Grade 11 Senior High School student at **University of Perpetual Help System DALTA** Molino Campus and a self-taught sysadmin/developer. When I'm not studying, I'm building homelabs, writing code, or stanning K-Pop.
+Hey! I'm **Gabriel Martin**, a Grade 12 Senior High School student at **University of Perpetual Help System DALTA** Molino Campus and a self-taught sysadmin/developer. When I'm not studying, I'm building homelabs, writing code, or stanning K-Pop.
 
-- 🎓 **A Proud Perpetualite** · Student of ICT 11-02 · Member of F.L.A.M.E.D as Head of Planning (Committee)
+- 🎓 **A Proud Perpetualite** · Student of ICT 12-01 · Member of F.L.A.M.E.D as Head of Planning (Committee)
 - 🖥️ **I am a Homelab nerd** — I run Proxmox, Docker, Home Assistant, Moodle LMS, and Frigate
 - 🎵 **K-Pop stan** — WHIZ, CARAT, 42 (TWS), WIZ\*ONE
 - 🗣️ **Languages:** Filipino · English · 한국어 (still learning!)
@@ -42,20 +42,31 @@ Hey! I'm **Gabriel Martin**, a Grade 11 Senior High School student at **Universi
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
 
-**Web & Auth**
+**Networking & Security**
+
+![OPNsense](https://img.shields.io/badge/OPNsense-E57000?style=flat-square&logo=opnsense&logoColor=white)
+
+**Web, Servers & Proxies**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Nginx Proxy Manager](https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Authentication & Identity**
+
 ![Microsoft Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Authentik](https://img.shields.io/badge/Authentik-FD4B15?style=flat-square&logo=authentik&logoColor=white)
 
 ---
 
 ## 🚀 My Current Projects
 
-I will be filling this up soon as I am currently inactive here.
+*   I am currently managing my self-hosted environment featuring **OPNsense** as my main router and firewall, single sign-on authentication through **Authentik**, and reverse-proxying using **NPMPlus**.
+*   I also use **Home Assistant** for my smart home.
 
 ---
 
