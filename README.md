@@ -29,7 +29,7 @@
 
 ## 👤 About Me
 
-Hey! I'm **Gabriel Martin**, a Grade 12 Senior High School student at **University of Perpetual Help System DALTA** (Molino Campus) and a self-taught sysadmin/developer. When I'm not studying, I build homelabs, writing code, or stanning K-Pop.
+Hey! I'm **Gabriel Martin**, a Grade 12 Senior High School student at **University of Perpetual Help System DALTA** (Molino Campus) and a self-taught sysadmin/developer. When I'm not studying, I build homelabs, write code, or stan K-Pop.
 
 - 🎓 **Proud Perpetualite** · ICT 12-01 · F.L.A.M.E.D Head of Planning
 - 🖥️ **Homelab nerd** — I run Proxmox, Docker, Home Assistant, Authentik, OPNSense, NPMPlus, etc...
