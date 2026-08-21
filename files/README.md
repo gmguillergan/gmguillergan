@@ -1,3 +1,8 @@
-# lol hi
+# 📁 Profile Assets & Static Files
 
-this is just a **not so special** repository that stores core files for the README or other files stored on this **special** repository.
+This directory serves as the static asset storage for [`@gmguillergan`](https://github.com/gmguillergan)'s GitHub profile, portfolio media, badges, and wallpapers.
+
+
+<p align="center">
+  <a href="../README.md"><b>← Back to Main Profile</b></a>
+</p>

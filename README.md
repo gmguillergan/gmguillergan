@@ -14,12 +14,19 @@
   <a href="https://github.com/gmguillergan">
     <img src="https://img.shields.io/badge/GitHub-gmguillergan-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://keybase.io/gmguillergan">
+    <img src="https://img.shields.io/badge/Keybase-gmguillergan-33A0FF?style=flat-square&logo=keybase&logoColor=white" alt="Keybase" />
+  </a>
+  <a href="https://github.com/gmguillergan.gpg">
+    <img src="https://img.shields.io/badge/GPG-CC6EFF965CC439DD-0093DD?style=flat-square&logo=gnupg&logoColor=white" alt="GPG Key" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=gmguillergan&style=flat-square&color=19D34C" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="#-about-me">About Me</a> &nbsp;•&nbsp;
   <a href="#-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
+  <a href="#-certifications--badges">Badges</a> &nbsp;•&nbsp;
   <a href="#-homelab--projects">Homelab & Projects</a> &nbsp;•&nbsp;
   <a href="#-favorite-album">Music</a> &nbsp;•&nbsp;
   <a href="#-stats">Stats</a>
@@ -37,6 +44,21 @@ Hey! I'm **Gabriel Martin**, a Grade 12 Senior High School student at **Universi
 - 🗣️ **Languages:** Filipino · English · 한국어
 - 🐧 *I use Arch, btw.*
 
+<details>
+  <summary><b>🔐 Security & PGP Key</b></summary>
+  <br />
+
+> If you discover a security vulnerability in any of my self-hosted services or projects, or need to send sensitive messages, please encrypt your communication using my PGP key below or reach out via Keybase.
+
+| Property | Details |
+| :--- | :--- |
+| **Key ID** | `CC6EFF965CC439DD` |
+| **Fingerprint** | `2D46 4D40 4A56 977E 6BB3 5BB1 CC6E FF96 5CC4 39DD` |
+| **Keybase** | [`@gmguillergan`](https://keybase.io/gmguillergan) |
+| **Public Key** | [Download `.gpg`](https://github.com/gmguillergan.gpg) · [ASCII Armor (`.asc`)](https://keybase.io/gmguillergan/pgp_keys.asc) |
+
+</details>
+
 ---
 
 ## 🛠 Tech Stack
@@ -48,6 +70,20 @@ Hey! I'm **Gabriel Martin**, a Grade 12 Senior High School student at **Universi
 | **Networking & Security** | ![OPNsense](https://img.shields.io/badge/OPNsense-D94A38?style=flat-square&logo=opnsense&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white) |
 | **Web & Reverse Proxies** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![NPMPlus](https://img.shields.io/badge/NPMPlus-009639?style=flat-square&logo=nginx&logoColor=white) |
 | **Identity & Access** | ![Authentik](https://img.shields.io/badge/Authentik-FD4B15?style=flat-square&logo=authentik&logoColor=white) ![Microsoft Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white) |
+
+---
+
+## 🏅 Certifications & Badges
+
+<p align="center">
+  <img src="./files/README/badges/cisco-netacad/networking-basics.png" width="130" alt="Networking Basics" />
+  &nbsp;&nbsp;
+  <img src="./files/README/badges/cisco-netacad/operating-systems-basics.png" width="130" alt="Operating Systems Basics" />
+  &nbsp;&nbsp;
+  <img src="./files/README/badges/cisco-netacad/introduction-to-cybersecurity.png" width="130" alt="Introduction to Cybersecurity" />
+  &nbsp;&nbsp;
+  <img src="./files/README/badges/cisco-netacad/introduction-to-modern-ai.png" width="130" alt="Introduction to Modern AI" />
+</p>
 
 ---
 
